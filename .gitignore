@@ -1,0 +1,15 @@
+# Файлы Visual Studio и кэш
+.vs/
+*.suo
+*.user
+*.userosv
+*.sln.docstates
+*.bak
+*.TMP
+
+# Скомпилированные файлы
+bin/
+obj/
+
+# Папка с пакетными библиотеками NuGet
+packages/
