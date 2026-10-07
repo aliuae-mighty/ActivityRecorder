@@ -62,13 +62,28 @@ A lightweight and intuitive desktop application designed to record and automate 
 
 
 
-##  Configuration & Settings
+## Configuration & Settings
 
-Access the **Settings** menu to customize:
+The **Settings** menu allows you to fully customize how actions are recorded, replayed, and how the app behaves:
 
-* Custom hotkey bindings.
-* Playback speed multiplier (e.g., 1x, 2x, 5x).
-* Loop/repeat counts for automated playback.
+### Record Options
+Toggle specific input types to record only what you need:
+* **Keyboard**: Enable or disable recording of keystrokes.
+* **Mouse Move**: Enable or disable tracking cursor movement.
+* **Mouse Clicks**: Enable or disable recording left, right, or middle mouse clicks.
+
+### Playback Options
+* **Loop**: Enable continuous looping of recorded actions during playback.
+
+### Behavior Options
+* **Minimize to System Tray**: Keeps the app running quietly in the system tray when minimized.
+* **Minimize on Play / Record**: Automatically minimizes the window when starting recording or playback to avoid blocking the screen.
+* **Show Status Overlay**: Displays an on-screen overlay indicating current status (Recording/Playing).
+* **Always on Top**: Keeps the app window above all other open windows.
+* **Turn Off All Events at [HH:MM]**: Schedule a specific time to automatically stop recording or playback activities.
+
+### Window & Interface
+* **Window Title**: Customize the main window title bar text (default: `Activity Recorder`).
 
 
 ##  Contributing
