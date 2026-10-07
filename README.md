@@ -100,4 +100,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ##  Support the Project
 
-If you find this tool helpful and it saves you time, consider supporting further development via the **SUPPORT PROJECT** button inside the app or through GitHub Sponsors.
+If you find this tool helpful and it saves you time, consider supporting further development via the **SUPPORT PROJECT** button inside the app.
